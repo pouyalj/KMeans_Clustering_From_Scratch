@@ -1,2 +1,2 @@
-# KMeans_Clustering_Source_Code
+# KMeans Clustering From Scratch
 This is an implementation of KMeans Clustering from Scratch
